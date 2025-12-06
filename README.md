@@ -162,4 +162,72 @@ Open to opportunities combining technical expertise with business acumen:
 
 ---
 
+## 📋 GitHub Analysis
+
+### 📊 GitHub Statistics
+
+```
+Profile Views (Last 30 days): Growing
+Public Repositories: 2
+Active Contributors: 1
+Total Commits: 1+
+Streak Status: Active Developer
+```
+
+### 📚 Repository Breakdown
+
+| Repository | Type | Status | Last Update |
+|---|---|---|---|
+| **smart-plant-monitoring** | IoT Project | Active | Oct 2025 |
+| **kolasanisiddharth** | Portfolio | Active | Dec 2025 |
+
+### 👨‍💪 Development Activity
+
+- 💡 **Primary Focus**: Web Development & Backend Integration
+- 🕻️ **Tech Stack**: JavaScript/TypeScript, React, Supabase, Node.js
+- 🚀 **Commit Pattern**: Regular updates and improvements
+- 💱 **Code Quality**: Focus on clean code and documentation
+- 📚 **Documentation**: Comprehensive README files and code comments
+
+### 🌟 GitHub Insights
+
+**Contribution Patterns:**
+- 💡 Active in learning and implementing new technologies
+- 💻 Consistent focus on backend integration and Supabase
+- 📚 Strong emphasis on documentation and best practices
+- 🤝 Collaborative approach to problem-solving
+
+**Language Proficiency:**
+- JavaScript/TypeScript: Proficient
+- HTML/CSS: Proficient
+- Markdown (Documentation): Proficient
+
+**Code Organization:**
+- ✅ Organized repository structure
+- ✅ Clear commit messages
+- ✅ Comprehensive documentation
+- ✅ Best practices implementation
+
+### 🎉 Recent Milestones
+
+- **December 2025**: Updated GitHub portfolio with comprehensive resume details
+- **December 2025**: Created professional portfolio README with detailed skills and projects
+- **October 2025**: Launched smart-plant-monitoring IoT project
+
+### 💫 Engagement & Growth
+
+- **Active Learner**: Continuously updating skills and exploring new technologies
+- **Code Contributor**: Actively developing and maintaining repositories
+- **Documentation Focus**: Emphasis on clear, comprehensive documentation
+- **Project Innovation**: IoT projects and web development initiatives
+
+### 📄 Repository Quality Metrics
+
+- **Code Documentation**: Comprehensive README files with detailed explanations
+- **Project Descriptions**: Clear, detailed project overviews
+- **Technical Details**: Thorough technical specifications and features list
+- **Maintenance**: Regular updates and improvements
+
+---
+
 **Thanks for visiting my profile! Feel free to explore my repositories and reach out for collaboration opportunities. Happy coding! 🚀**
